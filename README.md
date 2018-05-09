@@ -33,4 +33,4 @@ $ react-native run-android
 ```
 
 
-![](screenshots.png)
+![](screenshot.png)
